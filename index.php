@@ -1,2 +1,2 @@
 <?php
-echo 'chào php deploy lên heroku lần 1';
+echo 'chào php deploy lên heroku lần 2';
